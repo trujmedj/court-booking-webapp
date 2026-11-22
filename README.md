@@ -53,4 +53,4 @@ The full project documentation (in Spanish) is available in [`docs/Documentacion
 
 ## Team
 
-Developed as a team project by José Trujillo Medina, [teammate] and [teammate].
+Developed as a team project by José Trujillo, Guillermo, Antonio, Manuel and Carlos.
