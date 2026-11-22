@@ -1,0 +1,8 @@
+target/
+bin/
+*.war
+*.class
+.classpath
+.project
+.settings/
+config.properties
