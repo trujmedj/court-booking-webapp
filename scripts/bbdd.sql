@@ -75,7 +75,7 @@ CREATE TABLE Reserva (
     numAdultos INT,
     numNinos INT,
     FOREIGN KEY (emailJugador) REFERENCES Jugador(email) ON DELETE CASCADE,
-    FOREIGN KEY (nombrePista) REFERENCES Pista(nombre) ON DELETE CASCADE
+    FOREIGN KEY (nombrePista) REFERENCES Pista(nombre) ON DELETE CASCADE,
     bono BOOLEAN NOT NULL 
 );
 
